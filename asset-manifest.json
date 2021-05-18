@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/DeepViolet777/Social-network/static/css/main.798a36b2.chunk.css",
-    "main.js": "/DeepViolet777/Social-network/static/js/main.4bd21002.chunk.js",
-    "main.js.map": "/DeepViolet777/Social-network/static/js/main.4bd21002.chunk.js.map",
-    "runtime-main.js": "/DeepViolet777/Social-network/static/js/runtime-main.b7a3207c.js",
-    "runtime-main.js.map": "/DeepViolet777/Social-network/static/js/runtime-main.b7a3207c.js.map",
-    "static/js/2.82da56c9.chunk.js": "/DeepViolet777/Social-network/static/js/2.82da56c9.chunk.js",
-    "static/js/2.82da56c9.chunk.js.map": "/DeepViolet777/Social-network/static/js/2.82da56c9.chunk.js.map",
-    "static/js/3.cd12224e.chunk.js": "/DeepViolet777/Social-network/static/js/3.cd12224e.chunk.js",
-    "static/js/3.cd12224e.chunk.js.map": "/DeepViolet777/Social-network/static/js/3.cd12224e.chunk.js.map",
+    "main.css": "/DeepViolet777/Social-network/static/css/main.106ec81e.chunk.css",
+    "main.js": "/DeepViolet777/Social-network/static/js/main.4b0e872a.chunk.js",
+    "main.js.map": "/DeepViolet777/Social-network/static/js/main.4b0e872a.chunk.js.map",
+    "runtime-main.js": "/DeepViolet777/Social-network/static/js/runtime-main.16fb6c30.js",
+    "runtime-main.js.map": "/DeepViolet777/Social-network/static/js/runtime-main.16fb6c30.js.map",
+    "static/js/2.1e5c9165.chunk.js": "/DeepViolet777/Social-network/static/js/2.1e5c9165.chunk.js",
+    "static/js/2.1e5c9165.chunk.js.map": "/DeepViolet777/Social-network/static/js/2.1e5c9165.chunk.js.map",
+    "static/js/3.bad40567.chunk.js": "/DeepViolet777/Social-network/static/js/3.bad40567.chunk.js",
+    "static/js/3.bad40567.chunk.js.map": "/DeepViolet777/Social-network/static/js/3.bad40567.chunk.js.map",
     "index.html": "/DeepViolet777/Social-network/index.html",
-    "static/css/main.798a36b2.chunk.css.map": "/DeepViolet777/Social-network/static/css/main.798a36b2.chunk.css.map",
-    "static/js/2.82da56c9.chunk.js.LICENSE.txt": "/DeepViolet777/Social-network/static/js/2.82da56c9.chunk.js.LICENSE.txt",
+    "static/css/main.106ec81e.chunk.css.map": "/DeepViolet777/Social-network/static/css/main.106ec81e.chunk.css.map",
+    "static/js/2.1e5c9165.chunk.js.LICENSE.txt": "/DeepViolet777/Social-network/static/js/2.1e5c9165.chunk.js.LICENSE.txt",
     "static/media/cat.791be33c.png": "/DeepViolet777/Social-network/static/media/cat.791be33c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7a3207c.js",
-    "static/js/2.82da56c9.chunk.js",
-    "static/css/main.798a36b2.chunk.css",
-    "static/js/main.4bd21002.chunk.js"
+    "static/js/runtime-main.16fb6c30.js",
+    "static/js/2.1e5c9165.chunk.js",
+    "static/css/main.106ec81e.chunk.css",
+    "static/js/main.4b0e872a.chunk.js"
   ]
 }
