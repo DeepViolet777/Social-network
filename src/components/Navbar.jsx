@@ -1,32 +1,50 @@
 import React from 'react';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link,
+  NavLink
+} from "react-router-dom";
+
 
 const Navbar = () =>{
    return (
 <nav className="navbar">
         <div>
-        <a href="/profile">
+        <NavLink to="/profile"
+        activeClassName="active"
+        >
           Profile
-        </a>
+        </NavLink>
         </div>
          <div>
-        <a href="/messages">
+        <NavLink to="/messages"
+         activeClassName="active"
+        >
           Messages
-        </a>
+        </NavLink>
         </div>
          <div>
-        <a href="/news">
+        <NavLink to="/news"
+         activeClassName="active"
+        >
           News
-        </a>
+        </NavLink>
         </div>
          <div>
-        <a href="/music">
+        <NavLink to="/music"
+         activeClassName="active"
+        >
           Music
-        </a>
+        </NavLink>
         </div>
         <div>
-        <a href="/settings">
+        <NavLink to="/settings"
+         activeClassName="active"
+        >
           Settings
-        </a>
+        </NavLink>
         </div>
       </nav>
    )

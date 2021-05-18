@@ -80,3 +80,7 @@ background-color: darkviolet;
 border-radius: 6px;
 padding: 10px;
 }
+
+a.active {
+  color: rgb(255, 166, 255);
+}
