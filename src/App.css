@@ -74,7 +74,7 @@ padding: 10px;
   color: aliceblue;
 }
 
-.profile{
+.content{
 grid-area: c;
 background-color: darkviolet;
 border-radius: 6px;

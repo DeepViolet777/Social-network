@@ -4,27 +4,27 @@ const Navbar = () =>{
    return (
 <nav className="navbar">
         <div>
-        <a href="#">
+        <a href="/profile">
           Profile
         </a>
         </div>
          <div>
-        <a href="#">
+        <a href="/messages">
           Messages
         </a>
         </div>
          <div>
-        <a href="#">
+        <a href="/news">
           News
         </a>
         </div>
          <div>
-        <a href="#">
+        <a href="/music">
           Music
         </a>
         </div>
         <div>
-        <a href="#">
+        <a href="/settings">
           Settings
         </a>
         </div>
