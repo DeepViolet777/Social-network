@@ -28,6 +28,7 @@ li {
 
 a {
   text-decoration: none;
+  color: #000000;
 }
 
 .wrapper{
@@ -37,23 +38,45 @@ a {
   grid-template-areas: 
   "h h"
   "n c";
-  grid-template-rows: 80px 1fr;
+  grid-template-rows: 100px 1fr;
   grid-template-columns: 2fr 10fr;
   grid-gap: 10px;
 }
 
 .header{
-  height: 85px;
+ height: 100px;
 grid-area: h;
 background-color: cornflowerblue;
+display:flex;
+border-radius: 6px;
+}
+
+.main-title{
+  margin-top: 40px;
+  margin-left: 15px;
+  font-size: 38px;
+}
+
+.logo{
+  margin-left: 15px;
+  margin-top: 10px;
 }
 
 .navbar{
 grid-area: n;
 background-color: darkslateblue;
+border-radius: 6px;
+padding: 10px;
+
 }
 
-.content{
+.navbar a{
+  color: aliceblue;
+}
+
+.profile{
 grid-area: c;
 background-color: darkviolet;
+border-radius: 6px;
+padding: 10px;
 }
