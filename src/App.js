@@ -10,7 +10,8 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+  Link,
+  Redirect
 } from "react-router-dom";
 
 
@@ -21,6 +22,7 @@ const App = () => {
       <div className="wrapper">  
      <Header/>
      <Navbar/>
+     <Redirect exact from="/" to="/profile"/>
      <Route path="/messages" component={Messages}/>
      <Route path="/profile" component={Profile}/>
      <Route path="/news" component={News}/>
