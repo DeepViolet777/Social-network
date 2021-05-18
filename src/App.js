@@ -7,6 +7,7 @@ function App() {
       <div className="wrapper">
       <header className="header">
       <img alt="Logo" width='70px' height="80px" src={cat}/>
+      <h2>Catstagram</h2>
       </header>
       <nav className="navbar">
         <div>
